@@ -143,8 +143,6 @@ void loop() {
   Serial.print(refresh);
   Serial.println("smp/sec");
 
-Serial.print("Max");
-Serial.print(vMax);
 
   //end and separation
   Serial.println();
